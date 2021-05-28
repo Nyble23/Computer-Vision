@@ -1,1 +1,2 @@
-
+Take atleast two images with similar objects in them. You may take more than two images also.
+The co-saliency detection algoirthm will automatically find the common salient object among the input images.
