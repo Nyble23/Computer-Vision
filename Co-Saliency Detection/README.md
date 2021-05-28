@@ -5,9 +5,9 @@ Co-saliency is used to discover the common saliency on the multiple images. A cl
 
 > What is saliency and co-saliency?
 
--Visual saliency measures the low-level stimuli that grabs viewers’ attention as soon as we look at an image. It is an image segmentation technique in which the most visually noticeable foreground object is highlighted. This object is called salient object.
--It is the technique of discovering the unique object in a group of images. Whatever is common and salient among all images should get highlighted and the other
-part should get suppressed.
+- Visual saliency measures the low-level stimuli that grabs viewers’ attention as soon as we look at an image. It is an image segmentation technique in which the most visually noticeable foreground object (salient object) is highlighted. Saliency is a measure of how much a pixel stands out in an image as compared to other
+pixels.
+- Co-saliency is the technique of discovering the unique object in a group of images. Whatever is common and salient among all images should get highlighted and the other part should get suppressed.
 
 > The algorithm
 
