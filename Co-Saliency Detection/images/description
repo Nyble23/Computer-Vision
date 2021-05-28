@@ -1,2 +1,4 @@
+This folder contains sample images that have been used to generate output in the attached .ipynb file.
+
 Take atleast two images with similar objects in them. You may take more than two images also.
 The co-saliency detection algoirthm will automatically find the common salient object among the input images.
