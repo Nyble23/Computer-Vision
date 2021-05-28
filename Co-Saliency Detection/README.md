@@ -17,4 +17,4 @@ Global correspondence between the multiple images is implicitly learned during t
 
 The co-saliency detection method can be used for many computer vision applications such as co-segmentation, robust image distance, weakly supervised learning, and video foreground detection.
 
-Reference: https://ieeexplore.ieee.org/document/6508944
+Reference: For more details refer [this]( https://ieeexplore.ieee.org/document/6508944)
